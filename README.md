@@ -1,5 +1,5 @@
 # Wiki-Encylopedia-Website
-Implementation of a Wikipedia-like online encyclopedia using Django
+Implementation of a Wikipedia-like online encyclopedia using Python and Django
 
 The purpose of this project is to design a Wikipedia-like online encyclopedia using Django ,html and CSS.
 
