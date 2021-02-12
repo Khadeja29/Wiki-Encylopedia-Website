@@ -40,6 +40,7 @@ Markdown to HTML Conversion: On each entry’s page, any Markdown content in the
 This project is a demonstration of the project(Project 1) for CS50 Web development with Python and JavaScript.
 
 https://cs50.harvard.edu/web/2020/projects/1/wiki/
+
 To view  demo follow the video link below:
 
 https://www.youtube.com/watch?v=7ZJAFrP4VQ4&list=PLr-z4AVNOC3KInaa_alIF-EyP80eTIGv3&index=2
