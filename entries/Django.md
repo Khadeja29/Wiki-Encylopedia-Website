@@ -1,0 +1,3 @@
+<h1>Django</h1>
+
+<p>Django is a web framework written using <a href="/wiki/Python">Python</a> that allows for the design of web applications that generate <a href="/wiki/HTML">HTML</a> dynamically.Django is a Python-based free and open-source web framework that follows the model-view-controller architectural pattern. It is maintained by the Django Software Foundation, an American independent organization established as a 501 non-profit.</p>
